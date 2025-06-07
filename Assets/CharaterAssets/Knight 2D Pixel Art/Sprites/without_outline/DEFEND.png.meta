@@ -131,10 +131,10 @@ TextureImporter:
       name: DEFEND_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 22
-        width: 23
-        height: 36
+        x: 0
+        y: 0
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,19 +153,19 @@ TextureImporter:
       name: DEFEND_1
       rect:
         serializedVersion: 2
-        x: 127
-        y: 22
-        width: 31
-        height: 35
+        x: 96
+        y: 0
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e1d2c345826e1dff0800000000000000
+      spriteID: 9b05874ddfe1fad4699e2d588db5a1de
       internalID: -12976263019090658
       vertices: []
       indices: 
@@ -175,19 +175,19 @@ TextureImporter:
       name: DEFEND_2
       rect:
         serializedVersion: 2
-        x: 221
-        y: 22
-        width: 33
-        height: 34
+        x: 192
+        y: 0
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a1c00f73795ae4090800000000000000
+      spriteID: a198e91569498cc468c1cfe8e1309542
       internalID: -8048313415167374310
       vertices: []
       indices: 
@@ -197,19 +197,19 @@ TextureImporter:
       name: DEFEND_3
       rect:
         serializedVersion: 2
-        x: 316
-        y: 22
-        width: 35
-        height: 34
+        x: 288
+        y: 0
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f8f8d86f61b2c330800000000000000
+      spriteID: 2dc46fdd410601e499f4f6ba331b801c
       internalID: 3729738533474728182
       vertices: []
       indices: 
@@ -219,19 +219,19 @@ TextureImporter:
       name: DEFEND_4
       rect:
         serializedVersion: 2
-        x: 414
-        y: 22
-        width: 34
-        height: 34
+        x: 384
+        y: 0
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bdad6bf6c32cff960800000000000000
+      spriteID: 1d170512ac382804a9a8338b4372582b
       internalID: 7638037057871731419
       vertices: []
       indices: 
@@ -241,19 +241,19 @@ TextureImporter:
       name: DEFEND_5
       rect:
         serializedVersion: 2
-        x: 512
-        y: 22
-        width: 28
-        height: 35
+        x: 480
+        y: 0
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 653fdc5fb327ea330800000000000000
+      spriteID: 8e2dc6a654c1b5d4bbcb57a6f74f7fba
       internalID: 3724039543734530902
       vertices: []
       indices: 
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ec28a8de927615e4db36103ce9c4f3a4
     internalID: 0
     vertices: []
     indices: 
